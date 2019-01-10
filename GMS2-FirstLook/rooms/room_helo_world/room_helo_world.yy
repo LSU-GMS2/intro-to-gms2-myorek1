@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "6518180e-c083-4258-a01e-a34ff0a3549f"
+        "6518180e-c083-4258-a01e-a34ff0a3549f",
+        "703b8730-f534-441e-84ef-498005a36c03"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2625512F","id": "6518180e-c083-4258-a01e-a34ff0a3549f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2625512F","objId": "20ee79f5-a239-4afa-83fe-941a22280a5c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 384}
+{"name": "inst_2625512F","id": "6518180e-c083-4258-a01e-a34ff0a3549f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2625512F","objId": "20ee79f5-a239-4afa-83fe-941a22280a5c","properties": [{"id": "3cd54425-700a-470a-aa51-f39de43e44e4","modelName": "GMOverriddenProperty","objectId": "20ee79f5-a239-4afa-83fe-941a22280a5c","propertyId": "53c0a6e7-56d7-4a4d-8410-5639bcb15ec7","mvc": "1.0","value": "Hello Meredyth!"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 384},
+{"name": "inst_3F7DA196","id": "703b8730-f534-441e-84ef-498005a36c03","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3F7DA196","objId": "20ee79f5-a239-4afa-83fe-941a22280a5c","properties": [{"id": "42086db8-2624-44b4-b046-a838395ebe66","modelName": "GMOverriddenProperty","objectId": "20ee79f5-a239-4afa-83fe-941a22280a5c","propertyId": "53c0a6e7-56d7-4a4d-8410-5639bcb15ec7","mvc": "1.0","value": "Nice to see you again..."}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 480}
             ],
             "layers": [
 
