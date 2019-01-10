@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "room_helo_world",
     "id": "63d38673-2b42-48bb-9a16-34305e40d0e9",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "6518180e-c083-4258-a01e-a34ff0a3549f"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_2625512F","id": "6518180e-c083-4258-a01e-a34ff0a3549f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2625512F","objId": "20ee79f5-a239-4afa-83fe-941a22280a5c","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 384}
             ],
             "layers": [
 
