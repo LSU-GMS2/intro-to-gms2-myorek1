@@ -6,7 +6,7 @@
 draw_set_halign(fa_center);
 
 //Draw a real data type on screen on first line
-draw_text(room_width * .5, line_height, age); 
+draw_text(room_width * .5, line_height, " I am " + string(age) + " years old."); 
 
 //Preforms mathematical operation on second line
 draw_text(room_width * .5, line_height * 2, age + (20 * 2) );
@@ -16,6 +16,9 @@ draw_text(room_width * .5, line_height * 3, bool(3));
 
 //show false boolean data type on fourth line 
 draw_text(room_width * .5, line_height * 4, bool(-300));
+
+//show string concatonation on fith line
+draw_text(room_width * .5,line_height * 5, "Hello" + first_name + " " + last_name + "!");
 
 //Return the alighnment to its default setting 
 draw_set_halign(fa_left);
