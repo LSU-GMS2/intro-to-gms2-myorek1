@@ -9,7 +9,7 @@ draw_set_halign(fa_center);
 draw_text(room_width * .5, line_height, " I am " + string(age) + " years old."); 
 
 //Preforms mathematical operation on second line
-draw_text(room_width * .5, line_height * 2, age + (20 * 2) );
+draw_text(room_width * .5, line_height * 2, age + (20 * 2));
 
 //Show true boolean data type on third line 
 draw_text(room_width * .5, line_height * 3, bool(3));
