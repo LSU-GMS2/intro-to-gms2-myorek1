@@ -40,5 +40,15 @@ else
 	draw_text(room_width * .5, line_height * 7, first_name + "is a mior." );
 }
 
+//show resutl of function that returs a booleand on eight line
+if (keyboard_check(vk_space))
+ {
+	draw_text(room_width * .5, line_height * 8, "You are pressing the space button" );
+ }
+else 
+{
+	draw_text(room_width * .5, line_height * 8, "You are not pressing the space button");
+}
+
 //Return the alighnment to its default setting 
 draw_set_halign(fa_left)
