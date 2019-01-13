@@ -2338,6 +2338,25 @@
             }
         },
         {
+            "Key": "69fd2600-4d5c-4070-bd36-f9d7d20cbdc4",
+            "Value": {
+                "id": "a223599e-95bf-49d9-ab81-aea0a4768797",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/fnt_title\/fnt_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "6a13288b-9758-4e24-a9a5-6f82789888c0",
             "Value": {
                 "id": "ced02266-3b00-4842-96a8-d2578d8e1c97",
@@ -5302,6 +5321,25 @@
             }
         },
         {
+            "Key": "e154673d-e046-472c-a1b8-d5da770b76c0",
+            "Value": {
+                "id": "24211a2b-f075-48f2-a475-706dacb2d463",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_errors_controller\/obj_errors_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e2e7b1e6-c548-4cc7-8c61-11e1792444ed",
             "Value": {
                 "id": "849e7cfe-7f2b-4314-a740-11a81487adb8",
@@ -5736,6 +5774,25 @@
                 ],
                 "resourcePath": "datafiles_yy\/TutorialContent\/ch2\/images\/ComparisonOperatorInGame.png.yy",
                 "resourceType": "GMIncludedFile"
+            }
+        },
+        {
+            "Key": "f74c1038-a973-4b84-8260-fdc052f3f106",
+            "Value": {
+                "id": "ca63a2cf-97b3-49a4-86f4-20228e774666",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/rm_errors\/rm_errors.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
