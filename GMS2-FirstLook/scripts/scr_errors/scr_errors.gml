@@ -19,9 +19,10 @@ repeat(number_of_repeets)
 	new_square = instance_create_layer(0, 0, "Instances", obj_square);
 	
 	//Add a square with 64 pixels in between each shape
-	new_square.x = (sprite_width + 64) * loop;
+	new_square.x = (room_width + 64) * loop;
 	
 }
+
 
 //Loop counter
 loop = 0;
