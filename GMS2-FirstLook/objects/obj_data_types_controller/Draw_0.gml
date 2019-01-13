@@ -76,3 +76,12 @@ for ( i = 0; i < 6; i=i+1)
 
 //Return the alighnment to its default setting 
 draw_set_halign(fa_left)
+
+//Draw lkine under text
+draw_set_color(c_yellow);
+
+draw_line( 0, line_height * 19, room_width, line_height * 19);
+
+draw_line( 0, line_height * 25, room_width, line_height * 25);
+
+draw_set_color(c_white);
