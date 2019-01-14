@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_octogon",
     "eventList": [
-        
+        {
+            "id": "0fbf9e48-8ef9-4bb2-a0f8-cec5d70e4f4d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0703482b-daa3-43fe-9afe-1d8304316c74"
+        },
+        {
+            "id": "c43ae133-9585-442f-929b-bd08b2083085",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0703482b-daa3-43fe-9afe-1d8304316c74"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
