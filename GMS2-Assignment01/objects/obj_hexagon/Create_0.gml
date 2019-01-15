@@ -1,6 +1,7 @@
 /// @description start
 
-x= 609;
-y = 353;
+x = 769;
+y = 640; 
+
 
 // You can write your code in this editor

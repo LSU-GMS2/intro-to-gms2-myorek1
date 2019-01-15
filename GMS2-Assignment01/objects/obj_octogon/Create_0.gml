@@ -1,6 +1,6 @@
 /// @description start position 
 
-x= 97;
-y=353;
+x = 640;
+y = 640;
 
 // You can write your code in this editor

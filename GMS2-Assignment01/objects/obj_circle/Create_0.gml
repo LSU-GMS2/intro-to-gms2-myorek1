@@ -1,6 +1,6 @@
 /// @description circle start 
 
-x=480;
-y=547;
+x = 512;
+y = 640;
 
 // You can write your code in this editor

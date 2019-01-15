@@ -1,9 +1,11 @@
 /// @description object start
 
-alarm[0] = 5* 30;
+x =256; 
+y = 640;
  
- x = 160
- y = 162
- 
+alarm[0] = 30 * 5; 
+
+can_move = false;
+
 
 // You can write your code in this editor
