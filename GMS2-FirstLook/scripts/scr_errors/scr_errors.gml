@@ -10,6 +10,9 @@ new_circle.y = room_height * .5;
 //How many times to loop through repeat
 number_of_repeets = 5;
 
+//Loop counter
+loop = 0;
+
 repeat(number_of_repeets)
 {
 	//Calculate cycle through loop starting at 1
@@ -19,11 +22,9 @@ repeat(number_of_repeets)
 	new_square = instance_create_layer(0, 0, "Instances", obj_square);
 	
 	//Add a square with 64 pixels in between each shape
-	new_square.x = (room_width + 64) * loop;
+	new_square.x = (new_square.sprite_width + 64) * loop;
 	
 }
 
 
-//Loop counter
-loop = 0;
 
